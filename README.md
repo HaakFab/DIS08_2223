@@ -34,8 +34,10 @@ and
 You do not necessarily lose points, if your results are not exciting, if your concept and implementation are done well. However, **we will punish any forms or attempts of cheating severely** (for example, copying from each other, copying parts of work or concepts from other publications without giving references). Also: Remember, that detailed documentation of your concept and the use of markdown are essential for your rating in the *Concept* category.
 
 Your final points will be calculated as
-$$ score=concept*10+implementation*15 $$
-where $ concept $ and $ implementation $ are percentages based on the criteria mentioned above.
+
+$$score=concept\times10+implementation\times15$$
+
+where $concept$ and $implementation$ are percentages based on the criteria mentioned above.
 
 | |                       |  |  |  |  |
 |------------------------|---------------------------|----|----|----|----|
