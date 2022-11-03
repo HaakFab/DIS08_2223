@@ -50,7 +50,7 @@ We evaluate your projects based on two attributes:
 		- If you choose a rather **simple application**, that you can fulfil with your knowledge from the programming and DIS08 lectures, we want you to produce clean, efficient, and correct code.
 		- If you choose a **complex application**, that needs the implementation of more complex coding, we do not value cleanliness and correctness as much. It is ok, if you take parts of code from the web. However, **always make it clear when code is taken from somewhere**, and **make it very clear, where you got it from**!
 
-You do not necessarily lose points, if your results are not exciting, if your concept and implementation are done well. However, **we will punish any forms or attempts of cheating and lacking indication of references severely** (for example, copying from each other, copying parts of work or concepts from other publications without giving credits). Also: Remember, that detailed documentation of your concept and the use of markdown are essential for your rating in the *Concept* category.
+You do not necessarily lose points, if your results are not exciting, if your concept and implementation are done well. However, **we will punish any forms or attempts of cheating and lacking indication of references severely** (for example, copying from each other, copying parts of work or concepts from other publications without giving credits). Also: Remember, that detailed documentation of your concept and the use of markdown are essential for your rating in the *concept* category.
 
 Your final points will be calculated as
 
