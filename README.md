@@ -20,7 +20,8 @@ This project includes the following sub-tasks:
 5. **Document** your train of thoughts in an outcome-oriented manner in a **structured markdown document** in your GitHub.
 6. Select a **means of presenting your results**
 	- **Discuss how your means of presentations helps to solve your task** 
-	-  What **methods** do you have to employ? What **visualisations** help to illustrate your findings=
+	-  What **methods** do you have to employ? What **visualisations** help to illustrate your findings?
+	-  
 7. **Importing** your data in python
 8. **Cleaning** your data
 9. **Analysing** the data according to your chosen task and **visualise your results** to fulfil the needs of your concept from 2.
