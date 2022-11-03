@@ -11,6 +11,7 @@ This project includes the following sub-tasks:
 	- What dataset do you choose? (URL, name)
 	- **Describe the dataset**: Variables, data format, collection period, who and why collected it, ...
 	- What makes this dataset interesting to you?
+	- you may also use additional datasets for enriching the information and/or combine multiple datasets! If you do, make sure t odescribe everything in detail: what data do you include and why do you combine the datasets!
 2. **Conceptualisation of your application**. Define either
 	- a task you want to perform,
 	- a problem you want to solve, or 
@@ -40,7 +41,6 @@ We evaluate your projects based on two attributes:
 	-  **How well does your chosen task fit the chosen dataset**?
 	-  Is the task **well formulated**?
 	-  Is your task **creative**, did you "think outside the box"?
-	-  How **challenging** is the chosen task, did you "make it easy" for yourself?
 	-  How well did you use **markdown** to structure and  document your Concept?
 2. **15 points: quality of your implementation**:
 	-  Was the dataset **imported correctly**?
