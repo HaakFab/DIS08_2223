@@ -8,7 +8,7 @@ Your task is, similar to what you did in the hands-on in L02, to choose a datase
 
 This project includes the following sub-tasks:
 1. **Selection of your dataset**
-	- What dataset do you choose?
+	- What dataset do you choose? (URL, name)
 	- **Describe the dataset**: Variables, data format, collection period, who and why collected it, ...
 	- What makes this dataset interesting to you?
 2. **Conceptualisation of your application**. Define either
@@ -77,8 +77,8 @@ To illustrate the task even better, here is an example for a concept (from the L
 ### Concepts
 To illustrate different possible concepts on varying levels of complexity, we give you a two concepts in this example:
 
-#### simple: Using the BaumCloud dataset, we visualise the most poplar trees for each Bundesland (federated state) as pie charts.
-This allows to judge, what types of trees grow best/traditionally in what parts of Germany, for example to select a tree for your garden or street, if you are a local community planer. This task can be implemented using relatively simple python approaches (f.e., exclusively using Pandas).
+#### more comples: Using the BaumCloud dataset, we visualise the most poplar trees for each Bundesland (federated state) as pie charts.
+This allows to judge, what types of trees grow best/traditionally in what parts of Germany, for example to select a tree for your garden or street, if you are a local community planer. This task can be implemented using relatively simple python approaches (f.e., exclusively using Pandas). However: you need to find a way, to find the Bundesland for the corresponding coordinates of the trees.
 
 #### complex: Implementation of a tool, that allows selecting a type of tree and showing the nearest trees of that type based on a geo location or show all trees of selected categories (e.g., fruits) in a certain radius.
 This more complex implementation leverages python geo-modules such as geoPandas to give a service similar to [mundraub.org](https://mundraub.org/).
