@@ -81,7 +81,7 @@ To illustrate different possible concepts on varying levels of complexity, we gi
 #### simple: Tall Trees: What are the 100 tallest trees? What gender are they? When were they planted? Are trees in the south taller than in the noth? In the west taller than in the east?
 Using Pandas and simple mathematics, there is lots to discover in the dataset! This a good example for an easy task, that still requires some level of care in reading the json data, cleaning and processing the dataset. Some simple statistics and plots (e.g., scatterplots) help ilustrating the data.
 
-#### more comples: Using the BaumCloud dataset, we visualise the most poplar trees for each Bundesland (federated state) as pie charts.
+#### more complex: Using the BaumCloud dataset, we visualise the most poplar trees for each Bundesland (federated state) as pie charts.
 This allows to judge, what types of trees grow best/traditionally in what parts of Germany, for example to select a tree for your garden or street, if you are a local community planer. This task can be implemented using relatively simple python approaches (f.e., exclusively using Pandas). However: you need to find a way, to find the Bundesland for the corresponding coordinates of the trees.
 
 #### complex: Implementation of a tool, that allows selecting a type of tree and showing the nearest trees of that type based on a geo location or show all trees of selected categories (e.g., fruits) in a certain radius.
